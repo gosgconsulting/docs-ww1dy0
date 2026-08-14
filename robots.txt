@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-rkpdwf.biggamingwin.xyz/sitemap.xml
